@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Got it to GitHub pages with [this](https://www.c-sharpcorner.com/article/how-to-deploy-react-application-on-github-pages/).
+
+`npm run deploy`
+will automatically push it to the correct branch
+
 ## Available Scripts
 
 In the project directory, you can run:
