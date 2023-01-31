@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BigChat/static/css/main.ec6dcf85.css",
+    "main.js": "/BigChat/static/js/main.d2418ab3.js",
+    "static/js/787.8a8cd25b.chunk.js": "/BigChat/static/js/787.8a8cd25b.chunk.js",
+    "index.html": "/BigChat/index.html",
+    "main.ec6dcf85.css.map": "/BigChat/static/css/main.ec6dcf85.css.map",
+    "main.d2418ab3.js.map": "/BigChat/static/js/main.d2418ab3.js.map",
+    "787.8a8cd25b.chunk.js.map": "/BigChat/static/js/787.8a8cd25b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec6dcf85.css",
+    "static/js/main.d2418ab3.js"
+  ]
+}
